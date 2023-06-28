@@ -1,4 +1,4 @@
-<div style="background-color: #f1f5f9; padding: 30px; coloor: green; textshadow: 2px 2px 2px white;">
+<div style="background-color: #f1f5f9; padding: 30px;">
   <h1 align="center">My Git Profile</h1>
   <p align="center">Welcome to my Git profile! This repository contains various projects, code samples, and resources that I have worked on. Feel free to explore and use them in your own projects. If you have any questions or suggestions, please don't hesitate to reach out.</p>
   
