@@ -1,39 +1,67 @@
-<div style="background-color: #f1f5f9; padding: 30px;">
-  <h1 align="center">My Git Profile</h1>
-  <p align="center">Welcome to my Git profile! This repository contains various projects, code samples, and resources that I have worked on. Feel free to explore and use them in your own projects. If you have any questions or suggestions, please don't hesitate to reach out.</p>
-  
-  <h2>Table of Contents</h2>
-  <ul>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#code-samples">Code Samples</a></li>
-    <li><a href="#resources">Resources</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-  </ul>
-  
-  <h2 id="projects">Projects</h2>
-  <p>In this section, you can find the projects I have worked on. Each project has its own dedicated repository, which contains detailed documentation and instructions on how to use it.</p>
-  <ul>
-    <li><a href="link-to-repo">Project 1</a>: A brief description of the project, its purpose, and any notable features.</li>
-    <li><a href="link-to-repo">Project 2</a>: A brief description of the project, its purpose, and any notable features.</li>
-    <li><a href="link-to-repo">Project 3</a>: A brief description of the project, its purpose, and any notable features.</li>
-  </ul>
-  
-  <h2 id="code-samples">Code Samples</h2>
-  <p>In this section, you can find small code samples that demonstrate specific functionalities or solve particular problems. Each code sample is contained within its own repository and includes a README with instructions on how to run it.</p>
-  <ul>
-    <li><a href="link-to-repo">Code Sample 1</a>: A brief description of the code sample, what problem it solves, and any dependencies or prerequisites.</li>
-    <li><a href="link-to-repo">Code Sample 2</a>: A brief description of the code sample, what problem it solves, and any dependencies or prerequisites.</li>
-    <li><a href="link-to-repo">Code Sample 3</a>: A brief description of the code sample, what problem it solves, and any dependencies or prerequisites.</li>
-  </ul>
-  
-  <h2 id="resources">Resources</h2>
-  <p>In this section, you can find additional resources that might be useful for developers, such as guides, tutorials, or helpful tools.</p>
-  <ul>
-    <li><a href="link">Resource 1</a>: A brief description of the resource and why it's valuable.</li>
-    <li><a href="link">Resource 2</a>: A brief description of the resource and why it's valuable.</li>
-    <li><a href="link">Resource 3</a>: A brief description of the resource and why it's valuable.</li>
-  </ul>
-  
-  <h2 id="contributing">Contributing</h2>
-  <p>I welcome contributions from the community. If you find any issues or have suggestions for improvement, please feel free to submit a pull request. Make sure to follow the established coding style and provide
+
+# Hello, I'm [Shubham Maurya] 👋
+### Mobile App Developer | Flutter Enthusiast | Tech Explorer
+
+I'm passionate about developing mobile applications that provide seamless user experiences. With hands-on experience in Flutter and Firebase, I love bringing innovative ideas to life through code.
+
+---
+
+## 🚀 My Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0B6E99?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+
+## 📝 Projects
+
+### 🌟 [Project 1 Golat Getter App](https://github.com/shubhamgitvns/Goal_Getter)
+- **Description**: A Goal Getter App is a productivity tool designed to help users organize and manage their tasks, reminders, or to-do lists. It provides a structured way for individuals to keep track of their daily activities and responsibilities, ensuring they don’t miss important deadlines or forget essential tasks.
+- **Tech**: Flutter, Firebase.
+
+### 🌟 [Project 2 LTS Solution App](https://github.com/shubhamgitvns/LTSS)
+- **Description**: A multi-utility app offering online transactions, recharges, gas bookings, and train bookings provides users with a range of essential services in one place. Here's an overview of its features and functionality.
+- **Tech**: Flutter, Figma, .Net, C#
+
+- ### 🌟 [Project 3 Quiz Programming App](https://github.com/shubhamgitvns/Quiz-Programming-Test)
+- **Description**: Creating an introductory quiz app can be a fun and engaging project. Such an app is typically designed to test users' knowledge on a particular topic or offer a general knowledge quiz. Here's a basic outline of how you can go about developing an introductory quiz app.
+- **Tech**: Flutter, Rest API
+
+- - ### 🌟 [Project 4 Musical Instrument App](https://github.com/shubhamgitvns/Musical-Instrument-App)
+- **Description**: An instrument app is a software application that simulates the experience of playing a traditional piano and drum on a digital device such as a smartphone, tablet, or computer. These apps are designed to provide users with a virtual piano keyboard and drum bets allowing them to play various notes, chords, and melodies.
+- **Tech**: Flutter/Dart
+
+- - ### 🌟 [Project 5 Tic Tac Toe App](https://github.com/shubhamgitvns/Tic-Tac-Toe)
+- **Description**: The Tic Tac Toe App is a digital implementation of the classic Tic Tac Toe game, designed to be played on smartphones, tablets, or computers. It provides a convenient and interactive way for players to enjoy the game without the need for paper, pencils, or a physical game board.
+- **Tech**: Flutter/Dart
+
+
+---
+
+## 🌱 Currently Learning
+- **Advanced Flutter**: Exploring animations and state management techniques.
+-  **Python**: Learning latest lib and features in python.
+-  **AI-ML**: Learning ML and AI which provide better postion in future.
+- **Backend Development**: Gaining proficiency in c#.
+
+---
+
+## 🏆 Achievements
+- Completed a **6-month internship** in app development.
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shubham-maurya-905262247/)
+- **Email**: shubhammaurya10092002@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I enjoy Bike Rideing in my free time, specializing in long root.
+
+
