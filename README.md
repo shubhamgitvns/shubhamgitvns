@@ -1,6 +1,6 @@
 
-# Hello, I'm [Shubham Maurya] 👋
-### Mobile App Developer | Flutter Enthusiast | Tech Explorer
+# Hello, I'm Shubham Mourya 👋
+### Android App Developer 
 
 I'm passionate about developing mobile applications that provide seamless user experiences. With hands-on experience in Flutter and Firebase, I love bringing innovative ideas to life through code.
 
@@ -19,7 +19,7 @@ I'm passionate about developing mobile applications that provide seamless user e
 
 ## 📝 Projects
 
-### 🌟 [Project 1 Golat Getter App](https://github.com/shubhamgitvns/Goal_Getter)
+### 🌟 [Project 1 Goal Getter App](https://github.com/shubhamgitvns/Goal_Getter)
 - **Description**: A Goal Getter App is a productivity tool designed to help users organize and manage their tasks, reminders, or to-do lists. It provides a structured way for individuals to keep track of their daily activities and responsibilities, ensuring they don’t miss important deadlines or forget essential tasks.
 - **Tech**: Flutter, Firebase.
 
@@ -44,14 +44,12 @@ I'm passionate about developing mobile applications that provide seamless user e
 
 ## 🌱 Currently Learning
 - **Advanced Flutter**: Exploring animations and state management techniques.
--  **Python**: Learning latest lib and features in python.
--  **AI-ML**: Learning ML and AI which provide better postion in future.
-- **Backend Development**: Gaining proficiency in c#.
+- **Backend Development**: Gaining proficiency in Java Sript and Node.js.
 
 ---
 
 ## 🏆 Achievements
-- Completed a **6-month internship** in app development.
+- Completed **6-month internship** in app development.
 
 ---
 
@@ -62,6 +60,6 @@ I'm passionate about developing mobile applications that provide seamless user e
 ---
 
 ## ⚡ Fun Fact
-I enjoy Bike Rideing in my free time, specializing in long root.
+I enjoy Bike Riding in my free time, specializing in long root.
 
 
