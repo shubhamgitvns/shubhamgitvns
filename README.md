@@ -20,11 +20,11 @@ I'm passionate about developing mobile applications that provide seamless user e
 ## 📝 Projects
 
 
-### 🌟 [Project 1: Ladies Fashion App](https://github.com/shubhamgitvns/Goal_Getter)
+### 🌟 [Project 1: Ladies Fashion App]()
 - **Description**: Ladies Fashion App is a one-stop destination for trendy and elegant women's fashion. The app is designed to provide a seamless shopping experience with a wide range of curated collections for every occasion.
 -  **Tech**: Flutter, Firebase, SQLite, API Integration, UI Creation.
 
-- ### 🌟 [Project 2: Intellect AI App](https://github.com/shubhamgitvns/Goal_Getter)
+- ### 🌟 [Project 2: Intellect AI App](https://github.com/shubhamgitvns/chat_gpt_example)
 - **Description**:"Intellect AI App is an innovative application designed to provide intelligent solutions using AI-driven technology. The app integrates advanced features to solve user queries, offer smart recommendations, and enhance overall productivity.
 - **Tech**: Flutter, Gemini AI, Local Database.
 ### 🌟 [Project 3: Goal Getter App](https://github.com/shubhamgitvns/Goal_Getter)
