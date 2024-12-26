@@ -20,7 +20,7 @@ I'm passionate about developing mobile applications that provide seamless user e
 ## 📝 Projects
 
 
-### 🌟 [Project 1: Ladies Fashion App]()
+### 🌟 [Project 1: Ladies Fashion App]
 - **Description**: Ladies Fashion App is a one-stop destination for trendy and elegant women's fashion. The app is designed to provide a seamless shopping experience with a wide range of curated collections for every occasion.
 -  **Tech**: Flutter, Firebase, SQLite, API Integration, UI Creation.
 
