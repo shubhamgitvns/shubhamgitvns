@@ -150,7 +150,8 @@ I am continuously learning new technologies and aiming to build high-quality mob
 
 ## 🏆 Achievements
 - Completed **6-month internship** in app development.
-
+- Completed **1 year full time job** in app development.
+- Publish **20+ App** on the play store
 ---
 
 ## 📫 Let's Connect
