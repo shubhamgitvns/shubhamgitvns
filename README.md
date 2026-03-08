@@ -26,31 +26,123 @@ I am continuously learning new technologies and aiming to build high-quality mob
 ## 📝 Projects
 
 
-### 🌟 [Project 1: Ladies Fashion App]
-- **Description**: Ladies Fashion App is a one-stop destination for trendy and elegant women's fashion. The app is designed to provide a seamless shopping experience with a wide range of curated collections for every occasion.
--  **Tech**: Flutter, Firebase, SQLite, API Integration, UI Creation.
+### 🌟 [Project 1: 1Click Builder (E-commerce App)](PLAY_STORE_LINK)
+- **Description**: 1Click Builder is a modern e-commerce mobile application designed to help users easily browse products, add items to cart, and place orders online. The app provides a smooth and user-friendly shopping experience.
+- **Purpose**: To provide a complete online shopping platform where users can explore products and purchase them conveniently.
+- **Features**:
+  - Product browsing with categories
+  - Add to cart & checkout
+  - User authentication
+  - Order tracking
+  - Clean and responsive UI
+- **Tech**: Flutter, Dart, REST API
 
-- ### 🌟 [Project 2: Intellect AI App](https://github.com/shubhamgitvns/chat_gpt_example)
-- **Description**:"Intellect AI App is an innovative application designed to provide intelligent solutions using AI-driven technology. The app integrates advanced features to solve user queries, offer smart recommendations, and enhance overall productivity.
-- **Tech**: Flutter, Gemini AI, Local Database.
-### 🌟 [Project 3: Goal Getter App](https://github.com/shubhamgitvns/Goal_Getter)
-- **Description**: A Goal Getter App is a productivity tool designed to help users organize and manage their tasks, reminders, or to-do lists. It provides a structured way for individuals to keep track of their daily activities and responsibilities, ensuring they don’t miss important deadlines or forget essential tasks.
-- **Tech**: Flutter, Firebase.
 
-### 🌟 [Project 4: LTS Solution App](https://github.com/shubhamgitvns/LTSS)
-- **Description**: A multi-utility app offering online transactions, recharges, gas bookings, and train bookings provides users with a range of essential services in one place. Here's an overview of its features and functionality.
-- **Tech**: Flutter, Figma, .Net, C#
+### 🌟 [Project 2: PrintForMee (E-commerce App)](https://play.google.com/store/apps/details?id=com.mab.printformee)
+- **Description**: PrintFormee is a custom printing app where users can choose dummy T-shirt designs, upload their own photos or artwork, and place orders to get personalized T-shirts printed and delivered.
+- **Purpose**: To create a seamless online shopping experience for customers.
+- **Features**:
+  - Product listing & search
+  - Shopping cart
+  - Secure checkout
+  - User account management
+- **Tech**: Flutter, REST API
 
-### 🌟 [Project 5: Quiz Programming App](https://github.com/shubhamgitvns/Quiz-Programming-Test)
-- **Description**: Creating an introductory quiz app can be a fun and engaging project. Such an app is typically designed to test users' knowledge on a particular topic or offer a general knowledge quiz. Here's a basic outline of how you can go about developing an introductory quiz app.
-- **Tech**: Flutter, Rest API
- ### 🌟 [Project 6: Musical Instrument App](https://github.com/shubhamgitvns/Musical-Instrument-App)
-- **Description**: An instrument app is a software application that simulates the experience of playing a traditional piano and drum on a digital device such as a smartphone, tablet, or computer. These apps are designed to provide users with a virtual piano keyboard and drum bets allowing them to play various notes, chords, and melodies.
-- **Tech**: Flutter/Dart
 
- ### 🌟 [Project 7: Tic Tac Toe App](https://github.com/shubhamgitvns/Tic-Tac-Toe)
-- **Description**: The Tic Tac Toe App is a digital implementation of the classic Tic Tac Toe game, designed to be played on smartphones, tablets, or computers. It provides a convenient and interactive way for players to enjoy the game without the need for paper, pencils, or a physical game board.
-- **Tech**: Flutter/Dart
+### 🌟 [Project 3: UrbanGreenSpace (E-commerce App)](https://play.google.com/store/apps/details?id=com.mab.urbangreenspace)
+- **Description**: UrbanGreenSpace is an online plant shopping application that allows users to explore and purchase plants and gardening products.
+- **Purpose**: To help users easily buy plants and gardening essentials from their mobile devices.
+- **Features**:
+  - Plant product catalog
+  - Category filtering
+  - Order management
+  - Smooth browsing experience
+- **Tech**: Flutter, REST API
+
+
+### 🌟 [Project 4: Islam786 (Book Reading App)](https://play.google.com/store/apps/details?id=com.mab.islam786user)
+- **Description**: Islam786 is a digital book reading application that provides Islamic books and educational content for users in a clean and user-friendly reading interface.
+- **Purpose**: To allow users to read Islamic books digitally anytime and anywhere.
+- **Features**:
+  - Digital book reading
+  - Bookmark feature
+  - Easy navigation
+  - Clean reading interface
+- **Tech**: Flutter
+
+
+### 🌟 [Project 5: NaturalPures (E-commerce App)](https://play.google.com/store/apps/details?id=com.mab.naturalpures)
+- **Description**: NaturalPures is an online store application where users can browse and purchase natural and organic products.
+- **Purpose**: To promote natural products through a simple online shopping platform.
+- **Features**:
+  - OTP login authentication
+  - Product browsing
+  - Add to cart
+  - Order placement
+- **Tech**: Flutter, Firebase OTP
+
+
+### 🌟 [Project 6: Mobitel (Service App)](PLAY_STORE_LINK)
+- **Description**: Mobitel is a service-based mobile application that provides telecom and digital services in a single platform.
+- **Purpose**: To make telecom services easily accessible through a mobile application.
+- **Features**:
+  - Service listing
+  - User account management
+  - Easy service access
+- **Tech**: Flutter
+
+
+### 🌟 [Project 7: Go Car Checkup (Service App)](https://play.google.com/store/apps/details?id=com.mab.gocarcheckup)
+- **Description**: Go Car Checkup is a digital advertising service platform where users can manage and promote advertisements easily.
+- **Purpose**: To provide service with a car platform for  services.
+- **Features**:
+  - Ad posting
+  - Service management
+  - User dashboard
+- **Tech**: Flutter, REST API
+
+
+### 🌟 [Project 8: Dr Diograde (Doctor Booking App)](PLAY_STORE_LINK)
+- **Description**: Dr Diograde is a healthcare appointment booking application that connects patients with doctors and allows easy appointment scheduling.
+- **Purpose**: To simplify doctor appointment booking through mobile devices.
+- **Features**:
+  - Doctor listing
+  - Appointment booking
+  - Schedule management
+  - Patient profile system
+- **Tech**: Flutter, REST API
+
+
+### 🌟 [Project 9: Yummy Food (Food Ordering App)](https://play.google.com/store/apps/details?id=com.mab.yummyfoodzuser)
+- **Description**: Yummy Food is a food ordering mobile application where users can browse restaurants and order food online.
+- **Purpose**: To provide a convenient food ordering and delivery experience.
+- **Features**:
+  - Restaurant listing
+  - Food menu browsing
+  - Cart system
+  - Order tracking
+- **Tech**: Flutter, REST API
+
+
+### 🌟 [Project 10: FM Sweet (Food App)](PLAY_STORE_LINK)
+- **Description**: FM Sweet is an online sweets ordering application where users can browse sweets and place orders easily.
+- **Purpose**: To provide an online platform for ordering sweets.
+- **Features**:
+  - Product catalog
+  - Cart management
+  - Online ordering
+- **Tech**: Flutter
+
+
+### 🌟 [Project 11: RoorkeeMart (Mart App)](https://play.google.com/store/apps/details?id=com.mab.roorkeeMart_user)
+- **Description**: RoorkeeMart is a grocery shopping mobile application that allows users to order daily essential products online.
+- **Purpose**: To provide convenient grocery shopping from mobile devices.
+- **Features**:
+  - Grocery product listing
+  - Cart & checkout
+  - Order history
+- **Tech**: Flutter, REST API
+
 
 
 ---
