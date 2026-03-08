@@ -1,8 +1,14 @@
 
 # Hello, I'm Shubham Mourya 👋
-### Android App Developer 
+### App Developer 
 
-I'm passionate about developing mobile applications that provide seamless user experiences. With hands-on experience in Flutter and Firebase, I love bringing innovative ideas to life through code.
+I am a passionate Flutter Developer with around 1 year of experience in building and maintaining mobile applications. I have hands-on experience developing real-world projects including e-commerce, Food, Mart and service-based applications.
+
+I have successfully published 20+ mobile applications on the Google Play Store, gaining strong experience in the complete app development lifecycle including development, debugging, optimization, and deployment.
+
+My technical skills include Flutter, Dart, Firebase, REST API integration, and state management tools like Provider and setState. I enjoy solving complex problems, improving application performance, and building scalable and user-friendly mobile apps.
+
+I am continuously learning new technologies and aiming to build high-quality mobile applications that deliver great user experiences.
 
 ---
 
